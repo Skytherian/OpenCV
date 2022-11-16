@@ -9,3 +9,4 @@ Afterwards we grab the largest contours which have four sides. That would be the
 
 ## [**DCGAN to Generate CIFAR10 Small Color Photographs using PyTorch**](./GAN/cifar_gan.ipynb)
 In this project we have tried to generate images using samples from the CIFAR10 dataset using a DCGAN
+Generated images are stored [here](./GAN/results)
